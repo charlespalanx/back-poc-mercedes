@@ -1,0 +1,2 @@
+SET JAVA_HOME=C:\Program Files\Java\jdk-17
+SET PATH=C:\Python39\Scripts\;C:\Python39\;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;%SYSTEMROOT%\System32\OpenSSH\;C:\Program Files\Java\jdk-17\bin;C:\Program Files\Apache\apache-maven-3.6.3\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;

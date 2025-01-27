@@ -9,13 +9,11 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 @Builder
-public class ReglaBean {
+public class ReglaBeanHijo {
 
     private String idRegla;
     private String idArea;
     private String descripcion;
-    
-    private ReglaBeanHijo hijo;
 
 }
 
